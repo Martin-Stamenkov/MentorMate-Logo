@@ -7,7 +7,6 @@ namespace MM_Logo
     {
         static void Main(string[] args)
         {
-
             var n = int.Parse(Console.ReadLine());
 
             var engine = new Engine(n);
